@@ -1,0 +1,248 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Arvo', serif;
+}
+
+.titulo {
+    font-family: 'Monoton', 'Arvo', cursive;
+}
+
+body {
+    background-image: url(img/bandera\ carreras.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+} 
+
+/*#enc{
+    width: 1000px;
+    height: 95px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    background-color: rgba(219, 213, 213, 0.938);
+    border-radius: 5px;
+}
+
+#logo_enc {
+    width: 150px;
+    height: 80px;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+#logo_enc img {
+    position: absolute;
+    width: 150px;
+    border-radius: 20%;
+}
+
+#titulo_enc {
+    width: 340px;
+    height: 60px;
+    position: absolute;
+    left: 180px;
+    top: 5px;
+}
+
+#titulo_enc p {
+    font-size: 60px;
+    font-family: 'Monoton', 'Arvo', cursive;
+}
+
+#botones_enc {
+    width: 400px;
+    height: 50px;
+    position: absolute;
+    right: 5px;
+    top: 35px;
+}
+
+#botones_enc ul li {
+    font-size: 16px;
+    display: inline-block;
+    list-style: none;
+    margin: 2px;
+}
+
+#botones_enc ul li a {
+    text-decoration: none;
+    color: whitesmoke;
+    background-color: black ;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+#botones_enc ul li a:hover {
+    color: black;
+    background-color: transparent;
+    
+}
+
+#s1{
+    width: 1000px;
+    height: 540px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    background-color: aquamarine;
+}
+
+#img_principal {
+    width: 800px;
+    height: 530px;
+    position: relative
+    
+}   
+  
+#img_principal img{
+    position: relative;
+    width: 1000px;
+}
+
+#s2{
+    width: 1000px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    background-color:rgba(219, 213, 213, 0.938);
+    text-align: center;
+}
+#s2 p{
+    font-size: 30px;
+    text-align: center;
+}
+
+#s2 a :hover{
+    background-color: whitesmoke;
+}
+
+#enlaces {
+    position: relative;
+    width: 450px;
+    height: 200px;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+
+#enlaces_img {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 0px;
+    z-index: 14;
+    display: inline-block;
+
+}
+
+#enlaces_img img{
+    position: relative;
+    left:0px;
+    width: 200px;
+    height: auto;
+}
+
+#enlaces_texto {
+    width: 250px;
+    height: 200px;
+    position: absolute;
+    right: 0px;
+    z-index: 15;
+    display: inline-block;
+    font-size: 15px;
+}
+
+#enlaces_texto h1 {
+    font-size: 30px;
+    color: rgb(41, 41, 163);
+}
+#enlaces_texto p {
+    font-size: 18px;
+    color: black;
+}
+
+        
+#s3{
+    width: 1000px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    background-color:rgba(219, 213, 213, 0.938);
+    text-align: center;
+}
+
+#categorias {
+    width: 240px;
+    height: 370px;
+    display: inline-block;
+    position: relative;
+    font-size: 25px;
+    top: 10px;
+}
+
+#categorias ul li{
+    list-style: none;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+
+#categorias ul li a {
+    text-decoration: none;
+    color: whitesmoke;
+    background-color: black ;
+    border-radius: 10px;
+    padding: 5px;
+    
+}
+
+#categorias ul li a:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+
+
+#s4{
+    width: 1000px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    background-color: cadetblue;
+}
+
+#s5{
+    width: 1000px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    background-color: violet;
+}
+
+#pie{
+    width: 1000px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    background-color: red;
+}
+
+#enlaces_pag {
+    width: 500px;
+    height: 50px;
+    position: absolute;
+    background-color: white;
+    left: 50px;
+    top: 20px;
+}*/
